@@ -1,0 +1,12 @@
+{
+  "name": "tunes",
+  "version": "0.0.1",
+  "description": "some tunes using baudio",
+  "dependencies": {
+    "baudio" : "1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zaccolley/tunes.git"
+  }
+}
