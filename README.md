@@ -1,5 +1,7 @@
 # tunes
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zaccolley/tunes.svg)](https://greenkeeper.io/)
+
 some tunes using [baudio](https://github.com/substack/baudio)
 
 ## install
