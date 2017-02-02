@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "some tunes using baudio",
   "dependencies": {
-    "baudio" : "1.0.0"
+    "baudio" : "2.1.2"
   },
   "repository": {
     "type": "git",
